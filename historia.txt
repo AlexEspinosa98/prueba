@@ -5,3 +5,5 @@ una prueba para guardar en git
 ahora le hicimos una modificacion
 
 agregando parrao adicional para verificacion del archivo
+
+hoy soy un estudiante de platzi
